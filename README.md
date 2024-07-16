@@ -1,7 +1,3 @@
-Certainly! Here's a detailed description and working of the Mastermind game project for GitHub:
-
----
-
 # Mastermind Game in Python
 
 ## Overview
@@ -71,7 +67,3 @@ Contributions are welcome! Feel free to fork the repository, make improvements, 
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-This detailed description provides potential contributors and users with a comprehensive understanding of the project's functionality, features, and how to get started. Adjust the sections as needed to fit your specific project details and preferences.
