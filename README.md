@@ -64,3 +64,4 @@ The Mastermind game is a classic code-breaking game where one player sets a secr
 
 ## Contribution
 Contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
+
